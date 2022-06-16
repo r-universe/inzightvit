@@ -1,0 +1,22 @@
+[
+  {
+    "package": "iNZightMR",
+    "oncran": true
+  },
+  {
+    "package": "iNZightPlots",
+    "oncran": true
+  },
+  {
+    "package": "iNZightRegression",
+    "oncran": true
+  },
+  {
+    "package": "iNZightTools",
+    "oncran": true
+  },
+  {
+    "package": "iNZightTS",
+    "oncran": true
+  }
+]
