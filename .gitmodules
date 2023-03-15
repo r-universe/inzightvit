@@ -3,9 +3,9 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "iNZightMR"]
-	path = iNZightMR
-	url = https://github.com/inzightvit/inzightmr
+[submodule "iNZightTools"]
+	path = iNZightTools
+	url = https://github.com/inzightvit/inzighttools
 	shallow = true
 	registered = true
 [submodule "iNZightPlots"]
@@ -13,18 +13,18 @@
 	url = https://github.com/inzightvit/inzightplots
 	shallow = true
 	registered = true
+[submodule "iNZightTS"]
+	path = iNZightTS
+	url = https://github.com/inzightvit/inzightts
+	shallow = true
+	registered = true
 [submodule "iNZightRegression"]
 	path = iNZightRegression
 	url = https://github.com/inzightvit/inzightregression
 	shallow = true
 	registered = true
-[submodule "iNZightTools"]
-	path = iNZightTools
-	url = https://github.com/inzightvit/inzighttools
-	shallow = true
-	registered = true
-[submodule "iNZightTS"]
-	path = iNZightTS
-	url = https://github.com/inzightvit/inzightts
+[submodule "iNZightMR"]
+	path = iNZightMR
+	url = https://github.com/inzightvit/inzightmr
 	shallow = true
 	registered = true

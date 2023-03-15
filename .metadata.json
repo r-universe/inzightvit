@@ -1,6 +1,6 @@
 [
   {
-    "package": "iNZightMR",
+    "package": "iNZightTools",
     "oncran": true
   },
   {
@@ -8,15 +8,15 @@
     "oncran": true
   },
   {
+    "package": "iNZightTS",
+    "oncran": true
+  },
+  {
     "package": "iNZightRegression",
     "oncran": true
   },
   {
-    "package": "iNZightTools",
-    "oncran": true
-  },
-  {
-    "package": "iNZightTS",
+    "package": "iNZightMR",
     "oncran": true
   }
 ]
