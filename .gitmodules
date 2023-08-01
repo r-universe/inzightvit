@@ -11,9 +11,9 @@
 [submodule "iNZightRegression"]
 	path = iNZightRegression
 	url = https://github.com/inzightvit/inzightregression
-[submodule "iNZightTools"]
-	path = iNZightTools
-	url = https://github.com/inzightvit/inzighttools
 [submodule "iNZightTS"]
 	path = iNZightTS
 	url = https://github.com/inzightvit/inzightts
+[submodule "iNZightTools"]
+	path = iNZightTools
+	url = https://github.com/inzightvit/inzighttools
