@@ -5,12 +5,6 @@
 [submodule "iNZightMR"]
 	path = iNZightMR
 	url = https://github.com/inzightvit/inzightmr
-[submodule "iNZightPlots"]
-	path = iNZightPlots
-	url = https://github.com/inzightvit/inzightplots
-[submodule "iNZightRegression"]
-	path = iNZightRegression
-	url = https://github.com/inzightvit/inzightregression
 [submodule "iNZightTS"]
 	path = iNZightTS
 	url = https://github.com/inzightvit/inzightts
